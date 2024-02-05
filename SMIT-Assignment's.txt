@@ -2,7 +2,7 @@
 1. First Web Page - Notepad : https://ashfaqdotes.github.io/HTML_first-web-page/
 2. Ordered List & Unordered List : https://ashfaqdotes.github.io/HTML_order-and-unorder-list/
 3. Grocery Store : https://ashfaqdotes.github.io/HTML_grocery-store/
-4. Periodic Table :
+4. Periodic Table : https://ashfaqdotes.github.io/HTML_periodic-table/
 5. Pizza Form : https://ashfaqdotes.github.io/HTML_pizza-form/
 6. Youtube :
 7. Tables : https://ashfaqdotes.github.io/HTML_tables/
