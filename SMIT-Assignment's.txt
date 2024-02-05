@@ -1,20 +1,20 @@
 -HTML Assignment's
-1. First Web Page - Notepad ✅ : 
-2. Ordered List & Unordered List ✅ :
-3. Grocery Store ✅ :
-4. Periodic Table ✅ :
-5. Pizza Form ✅ :
+1. First Web Page - Notepad : https://ashfaqdotes.github.io/HTML_first-web-page/
+2. Ordered List & Unordered List : https://ashfaqdotes.github.io/HTML_order-and-unorder-list/
+3. Grocery Store : https://ashfaqdotes.github.io/HTML_grocery-store/
+4. Periodic Table :
+5. Pizza Form : https://ashfaqdotes.github.io/HTML_pizza-form/
 6. Youtube :
-7. Tables ✅ :
-8. Form ✅ :
+7. Tables : https://ashfaqdotes.github.io/HTML_tables/
+8. Form : https://ashfaqdotes.github.io/HTML_forms/
 
 -CSS Assignment's
-1. Grocery Page ✅ :
-2. Form ✅ :
-3. Card ✅ :
-4. Layout ✅ :
+1. Grocery Page : https://ashfaqdotes.github.io/CSS_grocery-page/
+2. Form : https://ashfaqdotes.github.io/CSS_forms/
+3. Card : https://ashfaqdotes.github.io/CSS_cards/
+4. Layout : https://ashfaqdotes.github.io/CSS_layout/
 5. Figma - Website (PSD to HTML)  :
-6. Google Classroom ✅ :
-7. Whatsapp Clone ✅ :
+6. Google Classroom : https://ashfaqdotes.github.io/CSS_google-classroom-clone/
+7. Whatsapp Clone : https://ashfaqdotes.github.io/CSS_whatsapp-clone/
 8. Spotfinder Clone -> Latest :
 
